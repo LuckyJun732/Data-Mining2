@@ -1,0 +1,5 @@
+site_name: Tugas 2 Data Mining
+pages:
+    - Home: index.md
+    - About: about.md
+theme: readthedocs
